@@ -1,3 +1,3 @@
 # Guerrilla
-#Estado actual: Desarrollo de la base de datos 27/06/19
+#Estado actual 27/06/19: Desarrollo de la base de datos 
 #
